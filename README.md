@@ -38,6 +38,9 @@ Mess and Meal entities
 including all the assumptions.
 2.Mess management.xlsx : This file contains the rough plan which we made before starting the project 1.This file also contains our final output that is the 
 ERD we made using workbench.
+![ERR Diagram (1)](https://user-images.githubusercontent.com/97477913/157741556-06934261-04a9-418d-be31-2f19854b2001.png)
+
+
 
 
 
@@ -56,3 +59,4 @@ cancellation form into a table upto 3NF.
 2.Hospital management project.xlsx : This file contains the original table which we extracted from the hospital management form and we normalized that table upto 3NF. This file also contains our final output that is the ERD we made using workbench.
 
  
+![ERR Hospital Management](https://user-images.githubusercontent.com/97477913/157741642-415b97cd-15bd-411b-8ce0-2f9e3faf9351.png)
